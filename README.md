@@ -1,3 +1,3 @@
 
-[notes](https://gist.github.com/reamstack)
+[gists](https://gist.github.com/reamstack)
 
